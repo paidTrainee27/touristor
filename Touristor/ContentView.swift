@@ -23,7 +23,7 @@ struct ContentView: View {
             .font(.system(size: 20))
             .bold()
             .padding()
-            Text("Have fun")
+            Text("Ons stop fun")
             .font(.system(size: 20))
             .padding()
             Image("beach")
